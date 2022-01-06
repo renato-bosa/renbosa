@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @renbosa.
 - 👀 I’m interested in solve problems with tech.
-- 💞️ I’m familiar with: HTML, JavaScript, CSS and PHP.
-- 🌱 I’m currently learning python and exploring IA capabilities.
+- 💞️ I’m familiar with: HTML, JavaScript, CSS, PHP and python.
+- 🌱 I also have interest in AI.
 
 <!---
 renbosa/renbosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
