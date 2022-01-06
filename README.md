@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @renbosa.
+- 👋 Hi, I’m @renatobosa.
 - 👀 I’m interested in solve problems with tech.
 - 💞️ I’m familiar with: HTML, JavaScript, CSS, PHP and python.
 - 🌱 I also have interest in AI.
